@@ -1,5 +1,5 @@
 # AAM_Trade
-Asset Allocation with Momentum trading strategy design<br>
+Asset Allocation with Momentum quant trading strategy design<br>
 
 **Tribute the team effort to Jinkyu Paik, Jooheon Lee, Wonjun Jung and Henry Chang**
 
@@ -10,6 +10,10 @@ Our goal is to let risk-adverse/ risk-neutral investor have a strategy that guar
 - Bullish Market: Take advantage of the upward trend assets by taking momentum strategy
 - Bearish Market: Use defense strategy to protect our portfolio by adjusting the weight of bonds investment
 
+### Universe<br>
+- Risky Assets (Max 70%)
+
+- Safety Assets (min 30%)
 
 ### Strategy Components<br>
 By separating our main startegy into two components, we expect we can maximize our return in the bullish market, and we can provide a dense cusion for the portfolio in the bearish market and acquire a higher Sharpe Ratio. 
