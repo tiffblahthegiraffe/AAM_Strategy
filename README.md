@@ -30,4 +30,11 @@ By separating our main startegy into two components, we expect we can maximize o
   - Adjust weight in bond ETF base on the momentum signal from risky assets ETFs
 
 
-### Repo Assests Description
+
+----------------------------------
+#### Repo Assets Description
+- [F-F_Research_Data_Factors.CSV](https://github.com/tiffblahthegiraffe/AAM_Trade/blob/master/F-F_Research_Data_Factors.CSV) Historical Fama-French factors
+- [etf_list.xlsx](https://github.com/tiffblahthegiraffe/AAM_Trade/blob/master/etf_list.xlsx) A list of all the ETFs that were 
+- [code_summary.py](https://github.com/tiffblahthegiraffe/AAM_Trade/blob/master/code_summary.py)
+
+----------------------------------
