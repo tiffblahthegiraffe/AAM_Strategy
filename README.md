@@ -1,7 +1,7 @@
-# AAM_Strategy
+# AAM_Trade
 Asset Allocation with Momentum trading strategy design<br>
 
-**Tribute the team effort to Jinkyu Paik, Jooheon Lee, Wonjun Jung abd Henry Chang**
+**Tribute the team effort to Jinkyu Paik, Jooheon Lee, Wonjun Jung and Henry Chang**
 
 This repo is dedicated to document our designed thought process,back-testing results and the rationale behind the strategy.
 
