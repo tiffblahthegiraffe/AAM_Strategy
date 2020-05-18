@@ -12,8 +12,12 @@ Our goal is to let risk-adverse/ risk-neutral investor have a strategy that guar
 
 ### Universe<br>
 - Risky Assets (Max 70%)
-
+  - iShares country EFTs excluding Asia countries (Value and Momentum Everywhere - Asness, Moskowitz and Pederson, 2012)
+  - SDPR industry ETFs (Do Industries Explain Momentum - Moskowitz and Grinblatt, 1999)
 - Safety Assets (min 30%)
+  - iShares SHY
+- Time Frame
+  - 12/2005 - 12/2018
 
 ### Strategy Components<br>
 By separating our main startegy into two components, we expect we can maximize our return in the bullish market, and we can provide a dense cusion for the portfolio in the bearish market and acquire a higher Sharpe Ratio. 
@@ -24,3 +28,6 @@ By separating our main startegy into two components, we expect we can maximize o
 - Defense Stategy
   - As a base, set at least 30% weight in bond ETF, meaning at most 70% in risky assets ETFs
   - Adjust weight in bond ETF base on the momentum signal from risky assets ETFs
+
+
+### Repo Assests Description
